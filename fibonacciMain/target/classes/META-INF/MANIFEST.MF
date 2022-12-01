@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: MangelRP
+Build-Jdk: 19
+Main-Class: ies.carillo.daw.endes.fibonacciMain.fibonacci2
+Created-By: Maven Integration for Eclipse
+
